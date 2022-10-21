@@ -11,7 +11,7 @@
     "countries-list": "^2.5.4",
     "graphql": "^14.6.0",
     "provinces": "^1.11.0",
-    "sift": "^12.0.0"
+    "sift": "^12.0.1"
   },
   "devDependencies": {
     "@trevorblades/eslint-plugin": "^1.1.2",
